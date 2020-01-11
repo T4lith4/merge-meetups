@@ -1,0 +1,29 @@
+{
+  "name": "merge-meetups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "config": "^3.2.4",
+    "concurrently": "^5.0.2",
+    "express-validator": "^6.3.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.7",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merge-Team/merge-meetups.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Merge-Team/merge-meetups/issues"
+  }
+}
