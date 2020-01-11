@@ -7,7 +7,7 @@ Name: Merge.dev
 
 State system: Redux
 
-Hosting Platform: Heroku 
+Hosting Platform: Heroku then AWS
 
 
 
@@ -21,3 +21,8 @@ Louie: Infra, DevOps, Front-End
 
 
 Application Feature:
+- DMing
+- Booking system
+- CRUD functionality 
+- Authentication
+- APIs
