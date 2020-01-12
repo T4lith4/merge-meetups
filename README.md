@@ -1,5 +1,5 @@
 # Merge-Meetups
-1. MERN APP
+MERN APP
 
 Meetup.com clone | Exclusive for developers
 
