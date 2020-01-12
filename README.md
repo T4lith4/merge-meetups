@@ -1,22 +1,23 @@
 # Merge-Meetups
-MERN APP
+1. MERN APP
 
-Meetup.com / Exclusive for developers
+Meetup.com clone | Exclusive for developers
 
-Name: Merge.dev
+Summary: Connecting developers with a network of communties that build, inspire and teach.
+
+Name: Merge.dev | 
 
 State system: Redux
 
-Hosting Platform: Heroku then AWS
+Hosting Platform: AWS
 
 
 
 Areas of expertise:
-
-Jacob: Back-End, Database, Full Stack
-Lea: Design, Front-End, Full Stack
-Talitha: Design, Front-End, Full Stack
-Louie: Infra, DevOps, Front-End
+- Jacob: Back-End, Database, Full Stack
+- Lea: Design, Front-End, Full Stack
+- Talitha: Design, Front-End, Full Stack
+- Louie: Infra, DevOps, Front-End
 
 
 
@@ -26,3 +27,5 @@ Application Feature:
 - CRUD functionality 
 - Authentication
 - APIs
+- CI/CD Pipelines 
+- Containerazation 
